@@ -1,4 +1,4 @@
-1.   run the .sh file at the root of the floder 
+1.   run the .sh file at the root of the folder 
 	such as : sh run_weibo_cosi.sh
 
 2.   if you have any problems,  Email  to  2339626137@qq.com
